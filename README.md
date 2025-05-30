@@ -1,1 +1,14 @@
 # DEEP-LEARNING-PROJECT
+
+*COMPANY*: CODTECH IT SOLUTIONS PVT LTD
+
+*NAME*: Pooja Charpe
+
+*INTERN ID*: CT12WU77
+
+*DOMAIN*:  Data Science
+
+*DURATION*: 12 Weeks
+
+*MENTOR*: Neela Santosh
+
