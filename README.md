@@ -12,3 +12,7 @@
 
 *MENTOR*: Neela Santosh
 
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/1713eeb3-6ab6-48de-8229-dbecce766f29)
+
